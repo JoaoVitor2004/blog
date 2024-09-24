@@ -13,7 +13,7 @@ function App() {
       <p>These languages are the backbone of every website, defining structure, content, and presentation.</p>
       <Container>
         <Img largura='30px' src={Avatar} alt='avatar'/>
-        <p style={{fontWeight: '900'}} weight='900'>Greg Hooper</p>
+        <p style={{fontWeight: '900'}}>Greg Hooper</p>
       </Container>
     </Wrapper>
   )
